@@ -10,4 +10,4 @@
 ## 好きなプログラミング言語
 
 - Python
-- t
+- JavaScript
